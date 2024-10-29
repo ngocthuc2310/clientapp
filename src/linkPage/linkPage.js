@@ -1,0 +1,10 @@
+// exports.link = "http://localhost:5001";
+// const link = "http://localhost:5001";
+exports.link = "https://shop-38kh.onrender.com";
+const link = "https://shop-38kh.onrender.com";
+exports.linkProduce = link + "/listproduct";
+exports.signup = link + "/signup";
+exports.login = link + "/login";
+exports.addorder = link + "/addorder";
+exports.listorder = link + "/listorder";
+exports.session = link + "/session";
